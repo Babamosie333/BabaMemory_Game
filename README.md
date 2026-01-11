@@ -23,7 +23,7 @@ A professional memory card matching game built with **Next.js 15**, featuring gl
 
 ## 🎥 Demo
 
-**Live Demo:** [babamemory.vercel.app](https://babamemory.vercel.app) _(add your link after deployment)_
+**Live Demo:** [babamemory.vercel.app](https://baba-memory-game.vercel.app/)
 
 ### How to Play
 
@@ -55,7 +55,7 @@ A professional memory card matching game built with **Next.js 15**, featuring gl
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/babamemory-game.git
+   git clone https://github.com/Babamosie333/BabaMemory_Game.git
    cd babamemory-game
    ```
 
@@ -223,7 +223,5 @@ MIT License - feel free to use for personal or commercial projects.
 ## 👨‍💻 Author
 
 **Vikram Singh**
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [@your-username](https://github.com/Babamosie333/BabaMemory_Game.git)
 ***
